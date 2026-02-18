@@ -1,13 +1,6 @@
 # 👩‍💻 Habeba Ahmed  
 ### MEARN Stack Developer  
 
-
-## 📊 Skills Dashboard
-
-<table>
-<tr>
-<td align="center">
-
 ### 🧱 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +9,3 @@
 <br/>
 ![ECMAScript 6](https://img.shields.io/badge/ECMAScript%206-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</td>
-</tr>
-</table>
